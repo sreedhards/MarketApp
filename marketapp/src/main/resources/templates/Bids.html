@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Stock Consolidated Book</title>
+    <link th:href="@{/css/site.css}" rel="stylesheet"/>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Symbol</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+        <tr th:each="bid:${Bids}">
+            <td th:text="${bid.symbol}"></td>
+            <td th:text="${bid.price}"></td>
+            <td th:text="${bid.quantity}"></td>
+        </tr>
+    </table>
+
+</body>
+</html>

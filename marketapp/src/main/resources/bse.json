@@ -1,0 +1,14 @@
+{"symbol":"TATA", "bidPrice":100,"bidQuantity":22,"offerPrice":120,"offerQuantity":32}
+{"symbol":"TATA", "bidPrice":101,"bidQuantity":23,"offerPrice":110,"offerQuantity":33}
+{"symbol":"Boeing", "bidPrice":13,"bidQuantity":20,"offerPrice":20,"offerQuantity":30}
+{"symbol":"Boeing", "bidPrice":10,"bidQuantity":20,"offerPrice":17,"offerQuantity":30}
+{"symbol":"SUN", "bidPrice":190,"bidQuantity":20,"offerPrice":201,"offerQuantity":30}
+{"symbol":"SUN", "bidPrice":200,"bidQuantity":20,"offerPrice":202,"offerQuantity":30}
+{"symbol":null, "bidPrice":200,"bidQuantity":20,"offerPrice":202,"offerQuantity":30}
+{"symbol":"TATA", "bidPrice":120,"bidQuantity":25,"offerPrice":108,"offerQuantity":34}
+{"symbol":"TATA", "bidPrice":110,"bidQuantity":26,"offerPrice":111,"offerQuantity":35}
+{"symbol":"Boeing", "bidPrice":13,"bidQuantity":20,"offerPrice":18,"offerQuantity":30}
+{"symbol":"Boeing", "bidPrice":10,"bidQuantity":20,"offerPrice":17,"offerQuantity":30}
+{"symbol":"SUN", "bidPrice":170,"bidQuantity":20,"offerPrice":203,"offerQuantity":30}
+{"symbol":"SUN", "bidPrice":203,"bidQuantity":20,"offerPrice":205,"offerQuantity":30}
+{"symbol":null, "bidPrice":204,"bidQuantity":20,"offerPrice":201,"offerQuantity":30}
